@@ -8,5 +8,10 @@ const client = new Bot({
 	prefix: "!pp"
 });
 
+client.status({
+	text: "pixel pizza testing",
+	type: "PLAYING",
+	time: 12
+});
 client.onMessage();
 client.loadCommands("./commands/");
