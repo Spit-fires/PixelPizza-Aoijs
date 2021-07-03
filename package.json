@@ -1,0 +1,24 @@
+{
+  "name": "pixelpizza-aoijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTTechnic/PixelPizza-Aoijs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTTechnic/PixelPizza-Aoijs/issues"
+  },
+  "homepage": "https://github.com/JTTechnic/PixelPizza-Aoijs#readme",
+  "dependencies": {
+    "aoi.js": "^4.0.2",
+    "dotenv": "^10.0.0"
+  }
+}
