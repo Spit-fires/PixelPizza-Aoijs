@@ -1,0 +1,9 @@
+module.exports = {
+	name: "china",
+	code: `
+		$color[BLUE]
+		$title[China]
+		$description[China]
+	        $footer[China]
+`
+}
